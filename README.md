@@ -1,6 +1,11 @@
 # CitySurf
 
-CitySurf will provide an interface to view various statistics about different cities in the United States. To create this experience, a full stack application will be created to provide a feature rich experience while having a minimal non-overwhelming interface to interact with the data. The goal is to provide a more consumable data visual tools that draw the eye to the conclusion. 
+CitySurf provides an interface in the form of a web application to view various statistics about different cities in the United States. To create this experience, a full stack application was created to provide a feature rich experience while having a minimal non-overwhelming interface to interact with the data. The goal is to provide a more consumable data visual tools that draw the eye to the conclusion.
+
+Comprehensive graphs and charts are publicly available without a sign in for each city. The graphs representing the various metrics are job industry, salary, employment, health insurance, walk score, home prices, weather, rooms per household, vacancy, and possibly other data points. There will also be community contributed data which will require a login to see add contribute to. These data points include ratings (out of 5 stars) of Pollution, Safety, Friendliness, Attractions. A summary for the city will be made available near the top of the page to help readers get an overall sense of the city.
+
+City Surf will be hosted in the cloud and use high security standards for encrypting the little user data that is collected (username and email) to lower the risk in the event of a data breach. The data itself will be collected via publicly available data sets from the Census Bureau, Zillow Housing Data, NOAA, and other reliable sources. The summary for each City will be generated through prompting ChatGPT.
+
 
 ## Features
 
