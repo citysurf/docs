@@ -43,3 +43,7 @@ City Surf will be hosted in the cloud and use high security standards for encryp
 
 <a href="/assets/CitySurf WireFrames.drawio.png">See full image</a>
 <img src="assets/CitySurf WireFrames.drawio.png">
+
+## Logical System Design
+
+<img src="./assets/CitySurf Logical System Design.drawio.png">
