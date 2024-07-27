@@ -1,4 +1,4 @@
-# CitySurf
+<img height=200 src="./assets/CitySurfLogo2.png">
 
 CitySurf provides an interface in the form of a web application to view various statistics about different cities in the United States. To create this experience, a full stack application was created to provide a feature rich experience while having a minimal non-overwhelming interface to interact with the data. The goal is to provide a more consumable data visual tools that draw the eye to the conclusion.
 
